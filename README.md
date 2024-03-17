@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** |  .
+- 🔭 I’m currently working as a **Flutter Developer .
 
-- 🌱 I’m currently learning **Advanced Flutter**.
+- 🌱 I’m currently learning **Software Engineer 💻** | **Mobile Application Developer 📱** | **Advanced Flutter**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
 
