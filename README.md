@@ -58,9 +58,7 @@
         <a href="https://mostaql.com/u/ammarageeza/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a> -->
-<!--     <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> -->
+<
      </a>
      <a href="https://t.me/al3tar2000">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -80,7 +78,7 @@
 </a>
 <a href="https://github.com/mostafasayed118?tab=followers"><img src="https://img.shields.io/github/followers/mostafasayed118?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+Me+a+Message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
 
 <br/>
