@@ -66,7 +66,10 @@
      </a>
      <a href="https://t.me/al3tar2000">
     <img src="https://img.shields.io/badge/Telegram-1077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-    
+    <a href="https://drive.google.com/drive/folders/1qT9IuM6uPJXKZXDaLdsRopzmv-opgrdF">
+
+    <img src="https://img.shields.io/badge/Resume-524786?style=for-the-badge&logo=&=white"  />
+</a>
   </a>
 </div>
 
