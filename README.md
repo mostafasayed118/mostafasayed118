@@ -54,15 +54,15 @@
     </a>
   <a href="mailto:mustafasayed20002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<!--   </a>
         <a href="https://mostaql.com/u/ammarageeza/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+  </a> -->
+<!--     <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  </a> -->
      </a>
-     <a href="https://t.me/ammarageeza">
+     <a href="https://t.me/al3tar2000">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
