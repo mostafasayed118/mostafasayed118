@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Flutter Developer**.
+- 🔭 Currently training as a **Data Engineer**.
 
-- 🌱 I’m currently learning **Software Engineer 💻** | **Mobile Application Developer 📱** | **Advanced Flutter**.
+- 🌱 Learning and growing in SQL, Python, Data Warehousing, ETL Pipelines, and Cloud Platforms (Azure, AWS) ☁️
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mostafasayed118?page=1&tab=repositories)**.
+- 💡 Passionate about building scalable data solutions and transforming raw data into valuable insights to support smarter decisions.
 
 <br>
 <div align="center">
